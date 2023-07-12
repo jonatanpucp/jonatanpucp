@@ -1,5 +1,4 @@
-# Amaya-Repository-Public
-This repository contains all my public scripts
+
 
 ## Description
 
