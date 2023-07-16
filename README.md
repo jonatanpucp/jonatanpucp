@@ -12,7 +12,7 @@ I am a fourth year economics student at PUCP.
 
 ### Computer skills
 
-Proficiency in R, Python and Stata
+R, Python and Stata
 
 ### Languages
 
