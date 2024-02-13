@@ -8,11 +8,11 @@ researcher.
 
 ### Education
 
-I am a fourth year economics student at PUCP. 
+I am a five year economics student at PUCP. 
 
 ### Computer skills
 
-R, Python and Stata
+R, Python, Latex and Stata
 
 ### Languages
 
