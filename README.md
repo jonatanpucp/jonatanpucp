@@ -3,7 +3,7 @@
 ## Description
 I'm a BS student in Economics at PUCP working as a research assistant in projects related to Development Economics and Industrial Organization
 
-### Computer skills
+### Skills
 
 Programming Languages: Highly Proficient in Python and Stata. Proficient in R and LaTeX and Familiar with Matlab.
 
