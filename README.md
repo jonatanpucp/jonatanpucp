@@ -1,18 +1,12 @@
 # Jonatan Amaya 
 
 ## Description
-I am a responsible, proactive and team worker person with strong analytical skills and a high capacity to work
-effectively under pressure. I enjoy facing new challenges and learning from them. Furthermore, I am fully
-committed to work towards the development of Peru using my skills and knowledge to become an academic
-researcher.
-
-### Education
-
-I am a five year economics student at PUCP. 
+I'm a BS student in Economics at PUCP working as a research assistant in projects related to Development Economics. 
 
 ### Computer skills
 
-R, Python, Latex and Stata
+Programming Languages: Highly Proficient in Python and Stata. Proficient in R and LaTeX and Familiar with Matlab.
+Computing Skills: Git
 
 ### Languages
 
@@ -21,7 +15,7 @@ R, Python, Latex and Stata
 
 ### Areas of interest
 
-My areas of interest are Labor Economics, Economics of Education and Microeconometrics. 
+My areas of interest are Development Economics, Economics of Education and Microeconometrics. 
 
 
 
