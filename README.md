@@ -1,7 +1,7 @@
 # Jonatan Amaya 
 
 ## Description
-I'm a BS student in Economics at PUCP working as a research assistant in projects related to Development Economics and Industrial Organization
+I'm a BS student in Economics at PUCP working as a research assistant in projects related to Local Governments and Industrial Organization
 
 ### Skills
 
@@ -16,7 +16,7 @@ Computing Skills: Git
 
 ### Areas of interest
 
-My areas of interest are Development Economics, Economics of Education and Microeconometrics. 
+My areas of interest are Applied Mathematics, Microeconometrics, Development Economics, Industrial Organization and Game Theory. 
 
 
 
