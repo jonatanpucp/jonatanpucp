@@ -5,7 +5,7 @@ I'm a BS student in Economics at PUCP working as a research assistant in project
 
 ### Skills
 
-Programming Languages: Highly Proficient in Python and Stata. Proficient in R, LaTeX and Familiar with Matlab.
+Programming Languages: Highly Proficient in Python and Stata. Proficient in R, LaTeX and Matlab.
 
 Computing Skills: Git
 
