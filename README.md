@@ -1,7 +1,7 @@
 # Jonatan Amaya 
 
 ## Description
-I'm a BS student in Economics at PUCP working as a research assistant in projects related to Local Governments and Industrial Organization
+I'm a BS student in Economics at PUCP working as a research assistant in projects related to Political Economy and Industrial Organization
 
 ### Skills
 
