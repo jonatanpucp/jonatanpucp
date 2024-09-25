@@ -16,7 +16,7 @@ Computing Skills: Git
 
 ### Areas of interest
 
-My areas of interest are Applied Mathematics, Microeconometrics, Development Economics, Industrial Organization and Game Theory. 
+My areas of interest are Applied Mathematics, Development Economics, Industrial Organization and Game Theory. 
 
 
 
