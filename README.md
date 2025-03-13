@@ -1,7 +1,7 @@
 # Jonatan Amaya 
 
 ## Description
-I'm an economist working as a research assistant in projects related to Political Economy and Industrial Organization
+I'm an economist working as a research assistant in projects related to Industrial Organization and Political Economy.
 
 ### Skills
 
