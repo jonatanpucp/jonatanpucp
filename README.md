@@ -2,7 +2,7 @@
 
 # Jonatan Amaya
 
-### Economist · Research Assistant · Applied Microeconomics
+### Economist · Research Assistant · Applied Microeconometrics
 
 </div>
 
