@@ -88,7 +88,7 @@ Contact
 --------------------------------------------
 
 Email          amaya.j@pucp.edu.pe
-GitHub         github.com/jonatanpucp
+GitHub         github.com/jonatan-amaya
 ```
 
 </td>
@@ -134,7 +134,7 @@ methods, and produce reproducible research.
 <p align="center">
   <a href="mailto:amaya.j@pucp.edu.pe">Email</a>
   ·
-  <a href="https://github.com/jonatanpucp">GitHub</a>
+  <a href="https://github.com/jonatan-amaya">GitHub</a>
 </p>
 
 
